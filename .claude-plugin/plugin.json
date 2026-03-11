@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-skills",
+  "version": "0.1.0",
+  "description": "Fullstack development skills, agents, and MCP tools for Claude Code. Provides reusable workflows for frontend, backend, API design, and deployment patterns.",
+  "author": {
+    "name": "gaulim"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fullstack",
+    "skills",
+    "agents",
+    "mcp",
+    "templates",
+    "frontend",
+    "backend",
+    "api"
+  ]
+}
